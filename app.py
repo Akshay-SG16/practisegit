@@ -5,5 +5,5 @@ def sum(a,b):
 def div(a,b):
     return a/b
 
-def mul(x,y):
-    return x*y
+def mul(a,b,c):
+    return a*b*c
